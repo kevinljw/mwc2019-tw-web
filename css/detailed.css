@@ -1,0 +1,392 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+[class^="col-"] {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+body {
+    background: white;
+}
+
+/* btn */
+.btn {
+    background-color: #3458A9;
+    border: none;
+    color: white;
+}
+
+/* menu-btn */
+
+.menu-btn1 {
+    position: fixed;
+    color: #3458A9;
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* #menu-btn2 {
+    position: fixed;
+    bottom: 6vh;
+    left: 4vw;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+} */
+
+/* section1 */
+
+.section1 {
+    height: 100%;
+}
+
+#s1-img {
+    height: 100%;
+    width: 100%;
+}
+
+#s1-box2 {
+    padding: 0px;
+}
+
+.section1 .btn {
+    width: 100px;
+    font-size: 1.2rem;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+.Glance>.title {
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: blue;
+}
+
+.Company h1 {
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.Company p {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+#what {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+#who,
+#where {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+
+/* section2 */
+
+.section2,
+.section3 {
+    margin-left: 25px;
+}
+
+#s2-img {
+    width: 100%;
+}
+
+
+.s2-content {
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.s2-btn {
+    width: 30vw;
+    margin-bottom: 5vh;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.s2-content p {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/* section3 */
+
+.section3 {
+    /* height: 90vh; */
+    /* border: 1px solid blue; */
+}
+
+.s3-content {
+    padding-top: 10px;
+    padding-left: 17px;
+    /* padding-right: 50px; */
+}
+
+.s3-btn {
+    width: 230px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 20px;
+    /* border: 1px solid blue; */
+}
+
+.s3-content p {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#s3-img {
+    padding-right: 40px;
+    padding-top: 60px;
+    width: 100%;
+}
+
+/* section4 */
+
+.section4 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+
+.s4-content {
+    background-color: #3458A9;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-style: italic;
+}
+
+.s4-line {
+    border: 2px solid white;
+    margin-top: 20px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.s4-content p {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.s4-box {
+    max-width: 500px;
+}
+
+/* section5 */
+
+.section5 {
+    margin-top: 120px;
+    height: 380px;
+}
+
+#s5-img {
+    width: 100%;
+}
+
+.s5-btn {
+    /* height: 50px; */
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.s5-circle {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #3458A9;
+    background-color: #3458A9;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.s5-content {
+    margin: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+.box {
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 27px;
+    height: 27px;
+}
+
+
+@media screen and (max-width:991.99px) {
+
+    .menu-btn1 {
+        height: 60px;
+        position: static;
+    }
+
+    #s1-img {
+        order: 1;
+        /* height: 95vw; */
+        /* width: 100%; */
+    }
+
+    #s1-box1 {
+        margin-left: 35px;
+        margin-right: 30px;
+        order: 2;
+    }
+
+    #s1-box2 {
+        order: 1;
+    }
+
+    .section1 {
+        padding: -15px;
+    }
+
+    .section2,
+    .section3 {
+        margin: 20px;
+    }
+
+    .s3-content p {
+        font-size: 0.8rem;
+    }
+
+    .s2-btn {
+        width: 300px;
+        margin-left: 0px;
+        margin-bottom: 30px;
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .s2-content {
+        padding-top: 40px;
+        padding-left: 17px;
+    }
+
+    #s3-img {
+        padding: 0px;
+        width: 100%;
+    }
+
+    .s4-content h1 {
+        font-size: 1.5rem;
+    }
+
+    .s4-content p {
+        font-size: 1rem;
+    }
+
+    .s4-line {
+        border: 2px solid white;
+        margin-top: 20px;
+        width: 40%;
+        margin-left: 30%;
+    }
+
+    .box {
+        /* margin-left: 0px; */
+    }
+
+    .s5-btn {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+
+    .s5-content {
+        margin: 2px;
+        padding-left: 20px;
+        text-align: left;
+        width: 250px;
+        font-size: 0.8rem;
+    }
+
+    .s5-style {
+        margin-left: 10px;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width:991.99px) and (min-width:500.01px) {
+    .section1 .btn {
+        font-size: 1.6rem;
+    }
+
+    .Glance>.title {
+        font-size: 1.5rem;
+    }
+
+    .Company p {
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+
+    #what {
+        font-size: 1.2rem;
+    }
+
+    #who,
+    #where {
+        font-size: 1.4rem;
+    }
+
+    .s2-btn,
+    .s3-btn {
+        font-size: 1.5rem;
+    }
+
+    .s2-content p {
+        font-size: 1.2rem;
+    }
+
+    .s3-content p {
+        font-size: 1.1rem;
+    }
+
+    .s5-btn {
+        padding: 15px;
+        font-size: 1.5rem;
+    }
+
+    .s5-content {
+        width: 400px;
+        font-size: 1.2rem;
+    }
+
+    .s5-circle {
+        height: 60px;
+        width: 60px;
+        border: 1px solid #3458A9;
+        background-color: #3458A9;
+        border-radius: 30px;
+        margin-left: 30px;
+    }
+
+    .box {
+        height: 60px;
+    }
+}

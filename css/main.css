@@ -1,0 +1,94 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.menu-btn1 {
+    position: fixed;
+    left: 0px;
+    position: absolute;
+    color: #3458A9;
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    cursor: pointer;
+    border: none;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #3458A9;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.home {
+    margin-top: 20px;
+}
+
+.sidenav a,
+.dropdown {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.dropdown {
+    margin-top: 10px;
+    transition: height 2s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    left: -60px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.line {
+    border: 1px solid white;
+    width: 180px;
+    margin: 10px;
+    position: relative;
+    left: -50px;
+}
+
+.class a {
+    font-size: 18px;
+}
+
+
+.dropdown ul {
+    display: none;
+}
+
+.dropdown:hover ul {
+    display: block;
+}
+
+
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}

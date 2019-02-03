@@ -1,0 +1,119 @@
+/* .card {
+    position: relative;
+    width: 400px;
+    height: 300px;
+}
+
+.card::after {
+    content: "";
+    display: block;
+    width: 400px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Poppins&subset=chinese-traditional'); */
+
+
+
+header {
+    width: 100%;
+    height: calc(100vh);
+    /* border: 3px solid blue; */
+    padding-top: calc(33vh);
+}
+
+.header-contant {
+    height: calc(33vh);
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Noto Sans TC', 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    /* border: 3px solid red; */
+}
+
+.collapse {
+    height: calc(100vh);
+}
+
+.navbar {
+    background-color: #3458A9;
+    color: #3458A9;
+}
+
+.menu-color {
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: rgb(140, 163, 218);
+    opacity: 10%;
+    color: #3458A9;
+}
+
+.row {
+    height: calc(100vh);
+    display: flex;
+    flex-flow: row nowrap;
+    /* border: 1px solid orange; */
+}
+
+.header-img {
+    height: calc(100vh);
+    background-size: cover;
+    display: flex;
+}
+
+[class^="col-"] {
+    width: calc(100% * 12 / 12);
+    padding: 0;
+    /* border: 3px solid black; */
+}
+
+.menu-color {
+    background-color: #3458A9;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+
+@media screen and (max-width:599.99px) {
+    .row {
+        flex-flow: row wrap;
+    }
+
+    header {
+        display: inline;
+    }
+
+    .header-contant {
+        /* height: calc(60vh); */
+        /* border: 3px solid red; */
+    }
+
+    .navbar {
+        height: calc(10%);
+        width: calc(100%);
+    }
+
+    .header-img {
+        height: calc(100%);
+        width: calc(100%);
+    }
+
+    #box-1 {
+        order: 2;
+    }
+
+    #box-2 {
+        order: 1;
+    }
+}

@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* my */
+.cards {
+    /* margin-top: 50px; */
+    padding: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.card {
+    margin: 100px;
+    position: relative;
+    width: 180px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 30px;
+
+    background-color: #3458A9;
+    margin: 25px;
+}
+
+.card-body {
+    height: 100px;
+    width: 180px;
+    position: absolute;
+    top: 165px;
+    left: 0;
+    /* display: none; */
+    /* opacity: 0; */
+    /* z-index: 0; */
+    color: rgb(145, 151, 245);
+    padding: 10px;
+}
+
+.card-body div {
+    margin: 1px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Noto Sans TC', 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    width: 100%;
+}
+
+.card:hover {
+    background-color: rgb(145, 151, 245);
+    transition: 1s;
+}
+
+.card:hover .card-body h3 {
+    /* display: block; */
+    /* opacity: 1; */
+    color: red;
+    transition: 1s;
+}
+
+.card:hover .card-body p {
+    /* display: block; */
+    /* opacity: 1; */
+    color: #3458A9;
+    transition: 1s;
+}
+
+.card-image img {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 140px;
+    width: 140px;
+    border-radius: 70px;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .cards {
+        padding: 0px;
+        padding-top: 50px;
+        ;
+    }
+
+    .card {
+        width: 150px;
+        margin: 14px;
+        height: 200px;
+    }
+
+    .card-body {
+        top: 125px;
+        width: 100%;
+    }
+
+    .card-body div {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .card-image img {
+        margin-top: 15px;
+        margin-left: 25px;
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+    }
+}
