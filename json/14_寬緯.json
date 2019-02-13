@@ -1,0 +1,12 @@
+{
+    "company": "Quadlink Technology",
+    "description": "Intelligent aquaculture IoT system “Aquadlink” to increase quality and yield rate",
+    "solution_description": "“Aquadlink”developed by Quadlink Technology is an intelligent aquaculture service system. Through LoRa transmission and intelligent equipment control, farmers could use PC, smartphones, pads to remotely monitor and control their aquaculture fields, and to increase quality and yield rate",
+    "solution_provider": "Quadlink Technology",
+    "reference_site": "Aquaculture fields in Southern Taiwan and countries including Indonesia, Malaysia, and the Philippines",
+    "contact": "service@communications.org.tw",
+    "pain_points_and_needs": ["Lack of aquaculture alarming system to cope with natural disasters","Current measures not effective to find reasons behind changes in the fish farms","Difficult to get the whole picture of their aquaculture environment","Difficult to identify factors that decrease fish farming productivity"],
+    "smart_solution": "“Aquadlink” is an intelligent aquaculture IoT service system with LoRa transmission and intelligent equipment control. Through computers, smartphones, and pads, farmers can remotely control the cultivation environment and monitor variables such as oxygen level, pH value, as well as salinity and water temperature. The IoT system not only collects water data, but also sends out early warnings through data analysis to help increase quality and yield rate.",
+	"adopted_technology:": "IoT sensors and controllers, data analytics via cloud and LoRa",
+	"benefits": ["Help aquaculture fields to monitor the critical value of the environment in real time","Reduce loss caused by environmental factors with proper precautions and warnings","Improve the efficiency of human operations"]
+}
