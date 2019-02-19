@@ -2,7 +2,18 @@
     box-sizing: border-box;
 }
 
+.carousel-indicators li {
+    border: 1px solid #3458A9;
+    color: #3458A9;
+    background-color: #3458A9;
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+}
 
+.carousel-indicators {
+    bottom: -40px;
+}
 
 body {
     margin: 0;
@@ -35,19 +46,22 @@ body {
     background-color: white;
     height: 60px;
     width: 60px;
-    font-size: 30px;
+    font-size: 40px;
     cursor: pointer;
 }
 
-/* #menu-btn2 {
-    position: fixed;
+.menu-btn2 {
     bottom: 6vh;
-    left: 4vw;
-    width: 40px;
-    height: 40px;
-    border: 2px solid black;
-    border-radius: 20px;
-} */
+    border-radius: 30px;
+    position: fixed;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    cursor: pointer;
+    z-index: 1;
+    background-color: rgba(52, 88, 169, 0.6);
+}
+
 
 /* section1 */
 
@@ -65,7 +79,6 @@ body {
 }
 
 .section1 .btn {
-    width: 100px;
     font-size: 1.2rem;
     margin-top: 15px;
     margin-bottom: 8px;
@@ -238,6 +251,20 @@ body {
     height: 27px;
 }
 
+#myBtn {
+    display: none;
+    position: fixed;
+    z-index: 2;
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
 
 @media screen and (max-width:991.99px) {
 

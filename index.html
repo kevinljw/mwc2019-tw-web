@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/home.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
     <script src="js/loadjson.js"></script>
     <script src="/js/home.js"></script>
 </head>
@@ -18,19 +20,34 @@
         <span class="menu-btn1" onclick="openNav()">&#9776; </span>
         <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="./home.html" class="home">Home</a>
-            <div class="dropdown">8 Sloution
-                <ul class="class">
-                    <div class="line"></div>
-                    <a href="./8class.html">Smart Agriculture</a>
-                    <a href="./8class.html">Smart Education</a>
-                    <a href="./8class.html">Smart Energy</a>
-                    <a href="./8class.html">Smart Governance</a>
-                    <a href="./8class.html">Smart Healthcare</a>
-                    <a href="./8class.html">Smart Retail</a>
-                    <a href="./8class.html">Smart Tourism</a>
-                    <a href="./8class.html">Smart Transportation</a>
-                </ul>
+            <a href="./index.html" class="home">Home</a>
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                8 Sloution
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <div class="dropdown">
+                                <ul class="class">
+                                    <div class="line"></div>
+                                    <a href="./Service_company/Agriculture.html">Smart Agriculture</a>
+                                    <a href="./Service_company/Education.html">Smart Education</a>
+                                    <a href="./Service_company/Energy.html">Smart Energy</a>
+                                    <a href="./Service_company/Governance.html">Smart Governance</a>
+                                    <a href="./Service_company/Healthcare.html">Smart Healthcare</a>
+                                    <a href="./Service_company/Retail.html">Smart Retail</a>
+                                    <a href="./Service_company/Tourism.html">Smart Tourism</a>
+                                    <a href="./Service_company/Transportation.html">Smart Transportation</a>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>
@@ -41,9 +58,10 @@
                 <div class="title-p">
                     <h1>Smart City Sloution</h1>
                     <p>@Taiwan</p>
+
                 </div>
                 <div class="btn-p text-center">
-                    <a class="btn btn-primary btn-lg btn-w" href="./Service_company.html">Learn More</a>
+                    <a class="btn btn-primary btn-lg btn-w" href="./8class.html">Learn More</a>
                 </div>
 
             </div>
@@ -52,7 +70,6 @@
             </div>
         </div>
     </div>
-
 
 </body>
 
