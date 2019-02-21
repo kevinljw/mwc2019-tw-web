@@ -12,8 +12,29 @@ function loadJSON(fileName, callback) {
   xobj.send(null);
 }
 
+function createList(my_array, my_id) {
+  var n = my_array.length;
+  for (count = 0; count < n; count++) {
+    // console.log(count);
+    var innerHTML = document.getElementById(my_id).innerHTML;
+    innerHTML = innerHTML + `<div class="my_list"><p>${my_array[count]}</p></div>`;
+    // console.log(innerHTML);
+    document.getElementById(my_id).innerHTML = innerHTML;
+  }
+}
 
-var com_name = "54";
+// function createLi(count) {
+//   // console.log(count);
+//   var innerHTML = document.getElementById("pain_points_and_needs").innerHTML;
+//   innerHTML = innerHTML + `<li>${count}</li>`;
+//   // console.log(innerHTML);
+//   document.getElementById("pain_points_and_needs").innerHTML = innerHTML;
+// }
+
+
+const urlParams = new URLSearchParams(window.location.search);
+const com_name = urlParams.get('id');
+console.log(com_name);
 loadJSON(com_name, function (response) {
   // Parse JSON string into object
   var actual_JSON = JSON.parse(response);
@@ -24,8 +45,20 @@ loadJSON(com_name, function (response) {
   $('#who').text(actual_JSON['solution_provider']);
   $('#where').text(actual_JSON['reference_site']);
   $('#contact').text(actual_JSON['contact']);
-  $('#pain_points_and_needs').text(actual_JSON['pain_points_and_needs']);
+  // $('#pain_points_and_needs').text(actual_JSON['pain_points_and_needs']);
+  createList(actual_JSON['pain_points_and_needs'], 'pain_points_and_needs')
   $('#smart_solution').text(actual_JSON['smart_solution']);
   $('#adopted_technology').text(actual_JSON['adopted_technology']);
-  $('#benefits').text(actual_JSON['benefits']);
+  // $('#benefits').text(actual_JSON['benefits']);
+
+  // $("#s1-img").attr("src", "public/" + com_name + "/1.png");
+  // $("#s2-img").attr("src", "public/" + com_name + "/2.png");
+  // $("#s3-1-img").attr("src", "public/" + com_name + "/3-1.png");
+  // $("#s3-2-img").attr("src", "public/" + com_name + "/3-2.png");
+  // $("#s3-3-img").attr("src", "public/" + com_name + "/3-3.png");
+  // $("#s3-4-img").attr("src", "public/" + com_name + "/3-4.png");
+  // $("#s3-5-img").attr("src", "public/" + com_name + "/3-5.png");
+  // $("#s5-img").attr("src", "public/" + com_name + "/4.png");
+
+  createList(actual_JSON['benefits'], 'benefits')
 });

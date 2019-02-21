@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Retail",
+    "company": "SYSTEX",
+    "description": "Blockchain with citizen\u2019s card as one integrated service to all",
+    "Scenario": "Mr. Liu often requires various services from different sections within the government, and is seeking a way to integrate relevant information into one source for the sake of efficiency and convenience. ",
+    "pain_points_and_needs": ["\t\u2022\tCity government hopes to include payment functions in citizen\u2019s cards ", "\t\u2022\t\nInfo and bonus points issued by different sections of the government should be integrated."],
+    "smart_solution": "This solution enables the public to use an App integrated with citizen\u2019s card to query, and pay relevant fees (such as parking fees and fines). The citizen\u2019s card can also serve as a form of payment through App or QR code. In addition, ",
+    "adopted_technology": "Blockchain Technology, QR Code, Electronic Ticketing",
+    "benefits": ["1. Virtualize citizen cards", "2. Promote mobile payment to citizens"],
+    "solution_description": "This solution utilizes Blockchain and citizen\u2019s card for integrated services. It documents a citizen\u2019s past history with applications, welfares, and more. Citizen\u2019s card can then be used for mobile payment, taking public transportation, as well as paying registration fees and fines.",
+    "solution_provider": "SYSTEX",
+    "contact": "service@communications.org.tw"
+}

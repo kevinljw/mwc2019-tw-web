@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Education",
+    "company": "Webduino",
+    "description": "IoT programming made easy through Webduino integrated IoT education platform.",
+    "Scenario": "Jack is much interested in IoT and wishes to become a maker. However, he is not entirely familiar with the components and circuit principles, and hopes to find a platform where he can get all the answers to become a proficient coder. ",
+    "pain_points_and_needs": ["1. It is not easy to learn the skills relevant to developing IoT-related products through soft/hardware integration", "2. Developers lack the essential tools to do fast prototyping for their products/ service"],
+    "smart_solution": "This solution provides efficient learning lessons and boards to facilitate the learning process of future makers, and to proceed to fast prototyping. It simplifies and lowers the technology barriers for learners, with tool kit equipped with various sensors for IoT projects. This solution aims to help learners with different levels of programming skills and with diverse expertise. Through streaming technology, this solution provides a one-stop portal for developer\u2019s IoT needs. ",
+    "adopted_technology": "IoT, HTML5",
+    "benefits": ["1. It lowers the entry barriers for new developers interested in IoT", " ", "2. The one-stop portal for developer\u2019s IoT needs can be accessed via web anytime anywhere by users"],
+    "solution_description": "Webduino provides IoT development tool kit to facilitate efficient learning. This solution also enables creators to overcome the technology barrier, and to reduce development time in order to accomplish fast prototyping for new solutions/ products.",
+    "solution_provider": "Webduino",
+    "contact": "service@communications.org.tw"
+}

@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "LITE-ON Technology",
+    "description": "lth care by AI, making rural areas more livable for the senior",
+    "Scenario": "Born in Changhua, Mr. Chang and his siblings have migrated to other cities to work while his mother still runs a family-owned grocery store in his home town. However, Mr. Chang's mother suffers from chronic high blood pressure, and she has to take the bus for an hour to have the prescription filled at the clinic. It is energy-consuming for Mr. Chang's mother to travel back and forth from the hospital at such an age, with her family residing far away from her.",
+    "pain_points_and_needs": ["1. There are growing issues in rural counties such as aging population, shift of young people to urban cities, and lack of care to the senior.", "2. Without the integration of information, it is difficult to deliver medical services and health care to the senior.", "3. Inadequate medical resources allocation in rural areas, making it hard for the sick elders to receive medical services.  "],
+    "smart_solution": "The medical care platform for the senior set up by LITE-ON Technology makes use of multiple IoT devices to collect physiological data of seniors over 65 years old, such as heart rates, blood pressure, sleep condition, and movement status. It also sends the data in real time to the senior medical care platform. Once abnormal condition occurs, the platform can immediately detect unusual signals, notify family members and contact the hospital for assistance or referral. The health data of seniors will be uploaded to the cloud through the LoRa network with AI enhanced big data analytics to predict the needs of the seniors.",
+    "adopted_technology": "LoRa Network and AI-enhanced big data analytics",
+    "benefits": ["1. ", "Integrating databases of 27 public health centers and seniors\u2019 medical records by updating them to the cloud for timely access by medical professionals", "2. With the IoT services of remote care center, it shortens the distance between the senior and the hospital ", "3. Helps to expand the benefits of long-term care policy of the government"],
+    "solution_description": "This solution sends the daily healthcare data of seniors to the medical care platform by using multiple IoT protocols. If abnormal conditions occur, the platform will notify family members and help the seniors receive proper medical treatments.",
+    "solution_provider": "LITE-ON Technology",
+    "contact": "\n"
+}

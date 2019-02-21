@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Transportation",
+    "company": "TMS",
+    "description": "Call for immediate and integrated roadside rescue service with just one click of a button ",
+    "Scenario": "A-Guang drives his family from Zhonghe to Chen-Pin fishing harbor. However, the car accidentally broken down on the busy Renai Road where other cars queued up behind him. He needs to reach the rescue team immediately to avoid further accidents on the road. ",
+    "pain_points_and_needs": ["\t\u2022\tThe inability for drivers to accurately report the location of their accidents to roadside rescue team", "\t\u2022\tTime-consuming to wait for roadside rescue team to arrive at the scene ", "\t\u2022\t", "\t\u2022\tLack of comprehensive service guidelines once after the car is towed", "\t\u2022\tNeed of government to grasp real-case scenarios and response time in roadside rescue to facility policy planning in the future"],
+    "smart_solution": "In order to provide emergency roadside assistance with just one click to link to the dispatch service platform on the cloud, this solution involves the reconfiguration and integration of data from the account, vehicle, and insurance to facilitate one click for emergency roadside assistance. The service can provide real-time support for dispatching tow trucks, help with incident report on the site to avoid blocking the road due to traditionally slower processing time. ",
+    "adopted_technology": "Cross-system data reconfiguration and integration ",
+    "benefits": ["\t\u2022\tAllows drivers to request for immediate assistance in response to roadside emergency (such as car accidents) with only one click ", "\t\u2022\tThe service will help to reduce time for emergency roadside assistance to arrive", "\t\u2022\tProvide a series of services from towing, inspection/repair/maintenance, insurance, and more", "\t\u2022\t", "\t\u2022\tData collected in the process could also be analyzed and cross-referenced with the government\u2019s Open Data for future policy making"],
+    "solution_description": "This solution provides emergency roadside assistance with just one click to link to the dispatch service platform on the cloud. This solution integrates the information of the account, vehicle, and insurance policy to facilitate more efficient dispatch for emergency roadside assistance.  ",
+    "solution_provider": "TMS",
+    "reference_site": "Taipei City and New Taipei City",
+    "contact": "service@communications.org.tw"
+}

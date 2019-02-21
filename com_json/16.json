@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Governance",
+    "company": "MANSPLENDID",
+    "description": "Accurate rainfall and flooding prediction facilitated by AI and deep learning",
+    "Scenario": "It is raining heavily outside, and Kai intends to pick up his child, but he is not sure about the road conditions, and whether or not he should avoid a certain route in case of serious flooding. ",
+    "pain_points_and_needs": ["\t\u2022\tThe processes of current warning system for flooding is not instant ", "\t\u2022\tWhen a sudden rainstorm comes, the notification could not be distributed in a timely manner", "\t\u2022\tThe public does not know the condition of the road in the event of heavy rainfall"],
+    "smart_solution": "This solution uses AI models and deep learning (such as Convolutional Neural Networks) based on data collection of past events and weather radar. It can be used to provide forecast on rainfalls and predict specific flooding occurrence in areas. The prediction model then offers instant alarms for science parks, industrial parks, and residential areas to help the public avoid areas at risk during heavy rainfall. ",
+    "adopted_technology": "AI Models and deep learning",
+    "benefits": ["1. The solution can predict potential flooding in the next 3 hours, where ", "\t\u2022\tthe spatial accuracy is expected to reach more than 70%", "\t\u2022\t2. The solution can provide early warning prior to the occurrence of flooding to both disaster prevention units and the public"],
+    "solution_description": "This solution adopts a model with high precision to produce data related to time and scope of rainfalls and flooding. The data is further utilized by AI deep learning algorithms to construct a comprehensive system for early warning.",
+    "solution_provider": "MANSPLENDID",
+    "contact": "service@communications.org.tw"
+}

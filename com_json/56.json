@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Transportation",
+    "company": "Far EasTone Telecommunications",
+    "description": "Geomagnetic sensing with NB-IoT to help drivers with road-side parking",
+    "Scenario": "Roadside parking sometimes can be tricky. There is a need for better integrated solution to avoid long wait lines and to achieve better utilization of available parking spaces. ",
+    "pain_points_and_needs": ["\t\u2022\tThe parking space at the side of the road is hard to find and takes time to find", "\t\u2022\tThe parking lot are too large for the drivers to remember where they park their cars", "\t\u2022\tThe owner of the parking lots does not have the information of available spaces. They have to send workers to go around in person to keep track of the parking status of each car. This practice is inefficient. "],
+    "smart_solution": " \u201cRoadside parking real-time information service (magnetism-related project)\u201d uses geomagnetic sensing with NB-IoT transmission, making the information indoor/outdoor parking spaces available. Driver can use an App to search for the available spaces. It also helps with parking navigation, car pick up, mobile payment, and more. The geomagnetic sensing management system and acquire the status of each space. The parking status is transmitted to the warden, which free them from going around and improve management efficiency.",
+    "adopted_technology": "NB-IoT Technology, Geomagnetic Sensing",
+    "benefits": ["\t\u2022\t Reduce the time needed to search for a parking space from 10 min. down to 6 min.", "\t\u2022\t Every driver saves 24 hours each year in searching for a parking space", "\t\u2022\t Scaling up to enhance performance through county/city collaboration, and improve management efficiency", "\t\u2022\t The status of each parking spaces reports to the warden and make management easier."],
+    "solution_description": "This solution uses geomagnetic sensing with IoT transmission, making the information indoor / outdoor parking spaces available. This information makes parking more convenient for drivers, facilitates efficient management and allows government agencies to collect traffic-related data.",
+    "solution_provider": "Far EasTone Telecommunications",
+    "reference_site": "New Taipei City, Taoyuan City, Hsinchu County, Taichung City, Tainan City, Kaohsiung City, Taitung County",
+    "contact": "service@communications.org.tw"
+}

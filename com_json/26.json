@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "Curdoctor",
+    "description": "Consult a Doctor Anytime Anywhere Through Video Conferencing",
+    "Scenario": "Mr. Wang\u2019s mother has been diagnosed with diabetes for more than ten years. Having resided in a small town in rural Taoyuan County, she needs to be driven for 2.5 hours to Saint Paul\u2019s Hospital every time she needs to consult a doctor, which is both time and energy-consuming. ",
+    "pain_points_and_needs": ["\t\u2022\t Time and energy-consuming for people in remote areas to gain access to medical services", "\t\u2022\t ", "\t\u2022\tLocal medical resources tend to be insufficient with not enough doctors ", "\t\u2022\t Citizens who travel overseas may encounter barriers (such as language and cost) when they seek medical attention in foreign countries"],
+    "smart_solution": "\t\u2022\tThis solution provides consultation services to patients through online video conferencing. With over hundreds of doctors from various disciplines online working in shifts around the clock, this service helps people from remote areas gain access to medical services anytime, anywhere. In addition, when traveling overseas, people may need medical attention but are faced with language barriers. Through this platform, they can access real-time consultation from the doctor online. ",
+    "adopted_technology": "Video Conferencing",
+    "benefits": ["1. Provide online medical consultation for people whom do not have immediate access to medical facilities", "2. Mitigate the lack of medical resources in rural areas "],
+    "solution_description": "This solution provides consultation services to patients through online video conferencing. There are over hundred doctors from various disciplines online working in shifts around the clock, serving the needs of patients in rural areas whom do not have immediate access to medical facilities.",
+    "solution_provider": "Curdoctor",
+    "contact": "service@communications.org.tw"
+}

@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Retail",
+    "company": "Chunghwa Telecom",
+    "description": "Unmanned Supermarkets \u2013 IoT and AI to make produce shopping accessible and reliable",
+    "Scenario": "Maggie is a fan of small-scale farmers\u2019 produce. She values food safety and is accustomed to buy foods with traceability. Today she works till late and wants to buy some food back home, but all the supermarkets are closed. She is in need of a grocery store that opens round-the-clock and sells food with traceable sources. ",
+    "pain_points_and_needs": ["\t\u2022\tConsumer lacks information to adequately identify food sources", "\t\u2022\tLimited distribution channels for farmers to increase their income", "\t\u2022\tHard to accentuate the value of non-toxic and organic farm produce ", "\t\u2022\tNot easy for farmers to build a brand of farm produce", ""],
+    "smart_solution": "This solution features \u201cIntelligent Unmanned Supermarkets with Big Data for Precision Marketing,\u201d where people can acquire produce traceability by simply scanning the product. It also provides a different distribution channel for small-scale farmers to establish brands and sell farm produce directly to consumers. Through IoT and AI integrated technology and multiple E-payment solutions, the unmanned supermarket can provide round-the-clock service to increase the revenue of small-scale farmers and make it more convenient for shopping.",
+    "adopted_technology": "IoT and AI",
+    "benefits": ["1. Allows easier traceability for food sources sold in stores", "2. To expand distribution channels and operational synergies at a larger scale", "3. To establish business intelligence by collecting sales information and analysis of customer flow and payment ", "4. To help small-scale farmers and businesses to realize precision marketing"],
+    "solution_description": "By using IoT and AI technologies, the unmanned store can make produce shopping more accessible and reliable, facilitate precision marketing and help establish brand image of national/local farming produce.",
+    "solution_provider": "Chunghwa Telecom and NanRenHu Co.",
+    "contact": "service@communications.org.tw"
+}

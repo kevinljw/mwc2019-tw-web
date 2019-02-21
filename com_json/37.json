@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "OPEN-LiFE",
+    "description": "An IoT-enabled monitoring network to provide real-time alerts and prevent the elderly from getting lost",
+    "Scenario": "Ms. Yang's father is diagnosed with dementia and tends to leave the house without notice as an outcome of this illness, causing her much worry. As a result, Ms. Yang has to take personal leaves to take care of her father. She wonders whether there are some alert systems that could combat this problem, and hopes there are also ways to help improve her quality of care for her father altogether. ",
+    "pain_points_and_needs": ["1. The prevalence of dementia in rural areas is more than twice than that of the urban areas", "2. Remote regions do not have adequate medical resources", "3. With the growing aging population, the burden of caregivers also increases", ""],
+    "smart_solution": "This solution features a positioning service to prevent the elderly from getting lost. With the implementation of IoT, when the elderly moves beyond a certain proximity from the residence or care facility, the service can notify caregivers through messaging app like LINE. When the elderly walks across the street, ID cards on elderly will be detected by traffic lights hence prolonging the green light signal for the elderly to cross. In addition, this solution provides the elderly with daily physiological measurement and healthcare management. If there is an emergency, the elderly can also seek help through the SOS button to notify the medical staffs or family members in time for assistance. ",
+    "adopted_technology": "IoT",
+    "benefits": ["1. This solution serves as a way to take preventive measures against onset dementia, such as elderly getting lost", "2. This solution also includes smart healthcare services to assist elderly in monitoring their physical well-being ", "3. Using IoT to help alleviate the burden of caregivers by implementing necessary precautions for elderly"],
+    "solution_description": "This solution features an IoT-enabled alarming service with existing ID cards, smart bracelets and tags as preventive mechanism for elderly whom are at risk of getting lost with onset dementia. It also incorporates emergency rescue services, intelligent surveillance and smart health care services especially designed to serve the elderly. ",
+    "solution_provider": "OPEN-LiFE",
+    "contact": "service@communications.org.tw"
+}

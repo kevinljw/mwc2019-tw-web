@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Retail",
+    "company": "Viscovery",
+    "description": "Self-checkout in one second powered by AI and image recognition ",
+    "Scenario": "Today is the birthday of Ms. Chen's husband. She plans to cook for him and give him a surprise. She goes to a supermarket for ingredients after work. But each checkout counter has a long waiting line. Besides, there are only two checkout counters available. The whole checkout process is not really efficient. ",
+    "pain_points_and_needs": ["1. There is a long waiting line during busy hours at stores with manual checkout", "2. People with only a couple of items also need to wait in line with others for quite a long time", "3. Current self-checkout systems are not user-friendly", "4. It takes time and bears a high cost to scan multiple items at a time", "", ""],
+    "smart_solution": "This solution features an image recognition model for products through deep learning in computer vision. The system can recognize ten different products in 1 second through image fetching from the camera. The system partners with companies like IPC and POS. When the products are recognized through the core recognition functions, the results are automatically sent back to the POS system, and the customer then pays the bill and leave.",
+    "adopted_technology": "Image recognition, AI technology",
+    "benefits": ["1. There is no need to scan the QR code. The system can finish recognizing multiple products at once", "2. The system improves the efficiency of self-checkout", "3. The checkout time is reduced by 30% on average", "4. The system is integrated with current POS systems, and only general webcams are needed", "5. The deployment cost of the system is low with east maintenance "],
+    "solution_description": "This solution utilizes deep learning in computer vision to recognize products. When the products are identified, the customer can pay the bill and leave, shortening the checkout time significantly ",
+    "solution_provider": "Viscovery",
+    "reference_site": "Department stores, hypermarkets, convenience stores, and retail stores in Taiwan",
+    "contact": "service@communications.org.tw"
+}

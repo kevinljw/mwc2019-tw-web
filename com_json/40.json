@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "SEDA G-Tech",
+    "description": "NB-IoT smart healthcare products to facilitate elderly care at home",
+    "Scenario": "In order to care for his mother with dementia, Mr. Lin purchase many smart healthcare devices only to find that they all require steady wireless connectivity to function properly. However, it may cost Mr. Lin a great fortune to implement fiber optic services at home.",
+    "pain_points_and_needs": ["1. Most users whom require care are reluctant to adopt new technology and products at home", "2. Products for smart healthcare requires stable connectivity at home, which may be costly", "3. Some products fail to function without network connectivity outdoor", ""],
+    "smart_solution": "This solution includes activity sensing mats and floor mats with automated light switch to monitor real-time information of seniors and notifies caregivers via a mobile app with updates and records. It is also equipped with two-way pagers, indoor positioning and interactive games for non-medical treatment for elderly with dementia. In addition, this solution utilizes NB-IoT devices to connect to the network both indoor and outdoor, and is said to bridge the \u201clast mile\u201d for smart healthcare services at home.",
+    "adopted_technology": "Narrowband IoT (NB-IoT) and AWS cloud service ",
+    "benefits": ["1. ", "NB-IoT is incorporated with smart healthcare products to provide reliable connectivity both indoor and outdoor to ensure better service quality", "2. NB-IoT is a cost-effect way to complement the network infrastructure required for smart healthcare services "],
+    "solution_description": "This solution features five NB-IoT smart healthcare products including activity sensing bed mats, floor mats, automated light switch/two-way pager, indoor positioning and interactive games for non-medical treatment for elderly with dementia",
+    "solution_provider": "SEDA G-Tech",
+    "reference_site": "",
+    "contact": "\n"
+}

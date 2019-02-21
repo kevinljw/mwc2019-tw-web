@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "LEOSYS",
+    "description": "Eye care with AI",
+    "Scenario": "Mr. Chen, 55 years old, has diabetes. The doctor advises him that people with diabetes are more likely to have retinopathy, resulting in cataracts or glaucoma. He is required to take a fundus examination regularly to keep track of his vision. However, there is no eye clinic near his house. He has to drive to a big hospital to receive medical treatment, causing him big troubles for his work and his time.",
+    "pain_points_and_needs": ["1. The examination equipment is not enough", "2. Patient and examiner ratio is low", "3. There are 6 to 10 items in an eye examination, where data formats are inconsistent and hard to integrate"],
+    "smart_solution": "This solution adopts portable eye examination equipment at local hospitals, stations for optometry, health centers in communities to provide fundus examination. After taking the fundus examination, people with diabetes could use AI-powered initial screening at nearby clinics or optometrist stores to check for abnormalities as early as possible. Exam records are sent back to the cloud platform, Eye Exam, and analyzed through AI to follow up on these patients. With this service, the patient does not need to travel back and forth from the hospital, and the rate for patients receiving follow-up medical treatment is raised by at least 65%.",
+    "adopted_technology": "AI, big data analytics",
+    "benefits": ["1. To make services at the optometry more comprehensive", "2. Increases the execution rate for fundus examinations", "3. Improves the examination procedures for eye care and promotes examination efficiency"],
+    "solution_description": "LEOSYS makes use of portable equipment for eye examination to provide easily accessible fundus examinations. People with diabetes could receive a fundus examination at a nearby station. The service also finds out abnormalities as early as possible through AI and improves the execution rate of the fundus examination.",
+    "solution_provider": "LEOSYS",
+    "reference_site": "New Taipei City",
+    "contact": "service@communications.org.tw"
+}

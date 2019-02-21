@@ -30,7 +30,7 @@
 .card-body {
     width: 250px;
     position: absolute;
-    top: 100px;
+    top: 30px;
     left: 0;
     /* display: none; */
     /* opacity: 0; */
@@ -86,7 +86,7 @@
 .card-body h3 {
     font-size: 18px;
     color: white;
-    margin-bottom: 12px;
+    margin-bottom: 40px;
 }
 
 .card-body p {

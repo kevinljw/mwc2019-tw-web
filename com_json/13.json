@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Governance",
+    "company": "HAMASTAR Technology",
+    "description": "Welfare applications done in an one-stop app",
+    "Scenario": "Li-Hua, 55 years old, heard that she is eligible for a welfare scheme provided by the government. However, after making several trips to different government agencies, she still has very little clue as to what to apply and how to apply.",
+    "pain_points_and_needs": ["1. The public does not fully understand welfare rules and require consultation", "2. Systems from cross-functional departments are not integrated ", "3. The process of applying for welfare money involves a lot of paperwork, making it lengthy and bothersome"],
+    "smart_solution": "This solution helps citizens save time on paper work by integrating various governmental info from cross-functional departments. In this case, citizens can easily apply for documents and be authenticated through the clicks of an app. Through this integrated app, it also helps the public understand the welfare scheme best suited for them. Citizens can then use the one-stop window to enjoy the convenient services such as submitting queries and applications to receive their welfare money. Last but not least, data collected and analyzed through this app can also be used to as reference for government sectors to improve welfare rules.",
+    "adopted_technology": "App, big data analytics and cloud service",
+    "benefits": ["1. An app to recommend best welfare policy to the public ", "2. To integrate various administrative documents on one platform ", "3. To digitalize documents required by government into electronic files", "3. To Expedite welfare payment with simplified application process through the app "],
+    "solution_description": "This service integrates a welfare application platform for the public to understand the welfare scheme best suited for them. In addition, the public can use the one-stop window to enjoy the convenient services such as submitting queries and applications to receive their welfare money. ",
+    "solution_provider": "HAMASTAR Technology",
+    "contact": "service@communications.org.tw"
+}

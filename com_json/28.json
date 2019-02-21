@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "JianLing Technology",
+    "description": "Wearable devices to help people work out smarter",
+    "Scenario": "Tracy recently finds her gaining weight and her arms flabby, so she decides to go work out. She uses Google and finds out there is a sports center nearby, and plans to use those fitness equipment to train herself. However, when she arrives at the venue, she finds herself in need of assistance with using those equipment and devising a workout plan.",
+    "pain_points_and_needs": ["Insufficient number of professional training coaches at fitness centers ", "User\u2019s insufficient knowledge regarding exercise routine, physical fitness, or how to use scientific methods and number analysis to improve efficiency", "Venue owner\u2019s need to collect user data and conduct analytics in order to  to know how people use this equipment. The owner can make the adjustment according to customers\u2019 needs."],
+    "smart_solution": "This solution integrates motion sensors and somatosensory trajectory detection technology with wearable devices and equipment. Through NFC-enabled SmartMotion system and an App, users can check their postures, track their own fitness records and enjoy interactive activities facilitated by the this platform. Meanwhile, the venue owner can also utilize data collected by this solution to  learn about people flow, user profiles, usage rate of equipment, and to adjust operational strategies.",
+    "adopted_technology": "Motion sensor, somatosensory trajectory detection technology and data analytics",
+    "benefits": ["1. Feedback from exercising data could help users gain motivation to workout more", "2. Information collected can be analyzed as a reference for venue owners to adjust operational strategies", "3. Helps sports venue owner to allocate machines/ sports activities to cater to user\u2019s needs", "4. Helps to increase the number of people coming to the venue and enhance operation efficiency by 20%", "5. Helps to lower the management cost of sports venues by 10%"],
+    "solution_description": "This solution uses NFC-enabled wearable intelligent devices and data analysis, together with data collected from the equipment and venues to help venue owners learn about user behaviors, and use them to adjust operational strategies.",
+    "solution_provider": "JianLing Technology",
+    "contact": "service@communications.org.tw"
+}

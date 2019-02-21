@@ -3,7 +3,7 @@
 }
 
 .carousel-indicators li {
-    border: 1px solid #3458A9;
+    border: 1px solid rgb(18, 44, 105);
     color: #3458A9;
     background-color: #3458A9;
     height: 10px;
@@ -108,7 +108,8 @@ body {
 }
 
 #who,
-#where {
+#where,
+#contact {
     font-size: 1rem;
     font-weight: 700;
 }
@@ -227,20 +228,27 @@ body {
     border-radius: 10px;
 }
 
-.s5-circle {
+/* .s5-content .my_list:before {
+    content: url("https://picsum.photos/20/20");
+    margin-right: 5px;
+} */
+
+
+/* .s5-circle {
     height: 40px;
     width: 40px;
     border: 1px solid #3458A9;
     background-color: #3458A9;
     border-radius: 20px;
     margin-left: 30px;
-}
+} */
 
-.s5-content {
-    margin: 8px;
+.s5-content p {
+    margin: 20px;
     font-weight: 600;
-    font-size: 14px;
-    text-align: center;
+    font-size: 16px;
+    margin-left: 60px;
+    /* text-align: center; */
 }
 
 

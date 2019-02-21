@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Healthcare",
+    "company": "LeadTek",
+    "description": "Artificial Intelligence to help predict patient\u2019s heart failure tendencies  ",
+    "Scenario": "Ms. Chang, 75 years old, had a stroke years ago due to heart failure. After years of rehabilitation, she is regaining her health because of proper treatment and appropriate home care. To avoid future heart failure, Ms. Chang is seeking ways to keep track of the condition of her heart in real time at home, and to reduce the risk of another potential failure in the future. ",
+    "pain_points_and_needs": ["\t\u2022\tTraditional blood and ultrasonic detection use expensive instruments and cost so much time. There is a ", "\t\u2022\tneed to develop fast and simple detection system for heart failure", "\t\u2022\t Given the likelihood of reoccurrence in acute heart failure, happens again easily, a prediction model for future heart failure is necessary", "\t\u2022\t Patient with tendency of heart failure also requires more guidance toward medical care at home"],
+    "smart_solution": "This solution utilizes \u201cTeleCare,\u201d an ECG/heart sound recorder with coaxial detection technology, home transmitter boxes with pads to provide remote healthcare services through AI, big data and remote care schemes. Patients with heart disease can use TeleCare to check the measurement and condition of their hearts. If an extra check is needed, data uploaded via TeleCare to the cloud can be provided to the doctors as a reference, helping doctors make the most suitable decision for the patients. In addition, this solution also utilizes IBM Watson and AI to predicate the risk of heart failure as reference to both patients and medical professionals. ",
+    "adopted_technology": "Artificial Intelligence, medical data analytics, IoT",
+    "benefits": ["1. Improve efficiency of medical testing by introducing alternative method ", "2. Help patients take precautions toward foreseeable heart failure ", "3. Facilitate patients\u2019 home care regime "],
+    "solution_description": "Working with seven major medical centers in Taiwan, this solution utilizes \u201cTeleCare,\u201d an ECG/heart sound recorder with home transmitter boxes and pads to upload the measurements of inpatients and outpatients to the cloud in order to be integrated into patient\u2019s medical and personal health records. In turn, patient\u2019s heart failure can be better predicted with necessary precautions. ",
+    "solution_provider": "LeadTek",
+    "reference_site": "Seven major medical centers in Taiwan, including NTU hospital / Veterans General Hospital / Mackay Memorial Hospital / Far Eastern Memorial Hospital / Taipei Municipal Wanfang Hospital / Shuang Ho Hospital / Kaohsiung Medical University Hospital",
+    "contact": "service@communications.org.tw"
+}

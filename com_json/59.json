@@ -1,0 +1,13 @@
+{
+    "8class": "Smart Transportation",
+    "company": "Taiwan International Development",
+    "description": "Road-side parking made more efficient with geomagnetic sensing and image recognition",
+    "Scenario": "During the New Year, Mr. Shih takes all his family members to an amusement park in Taichung. When they arrive at the parking space, he comes to realize there it is both energy and time-consuming to find a parking space.  ",
+    "pain_points_and_needs": ["1. It is time consuming to find parking spaces", "2. Different demands for the parking hot spots on weekdays and weekends", "", "3. The occupancy rate of some parking spaces is low, but illegal parking is common", ""],
+    "smart_solution": "This solution combines geomagnetic image sensing and the detection poles for image recognition, and to collect real-time information for road-side parking spaces. The public can make use of the app for parking in Tainan, along with the LED guiding system to locate road-side parking spaces. They can also make payments through various methods. In addition, the service combines business intelligence (BI) to integrate discounts from nearby shopping districts and provides incentives to reroute vehicles to avoid over crowding parking spaces. ",
+    "adopted_technology": "Geomagnetic Sensing and Image Recognition",
+    "benefits": ["\t\u2022\tIt helps to shorten the time searching for a parking space.", "\t\u2022\tThe service increases parking convenience by accurately locating street parking spaces", "\t\u2022\t\nThe service increases the turnover rate and utilization rate by 5% respectively on essential road sections \nIt helps to shorten the time searching for a parking space."],
+    "solution_description": "This solution makes use of geomagnetic sensing and image recognition for detect occupancy status of the parking spaces, and to increase the turnover rate.",
+    "solution_provider": "Taiwan International Development",
+    "contact": "service@communications.org.tw"
+}
