@@ -1,8 +1,14 @@
 {
-    "8class": "\u667a\u6167 \u7ba1\u7406\uff1f",
-    "company": "LIDAR Technology, GEOSAT Aerospace & Technology",
-    "description": "The odor sensor on the unmanned aerial vehicle (UAV)  sensitive to detect any source of air pollution",
-    "Scenario": "A-Rong smells a foul odor in his sleep. \u201cIt must come from that factory!\u201d Recently A-Rong was awakened by a foul odor and his neighbors have also claimed to have smelled the unconformable odor. They have reported to the local Environmental Protection Agency, but no evidence is found. \u201cThey emit pollutants during the night. That is the reason why EPA cannot find any evidence,\u201d says A-Rong angrily.",
-    "pain_points_and_needs": ["1. It is not easy to trace foul stench or exhaust fumes and to sample airborne pollutants arisen from farms, factories, and industrial parks. So it is hard to impose penalties. ", "2. It requires professional skills and consumes large amounts of money to engage in UAVs operation and maintenance."],
-    "contact": ""
+    "8class": "Smart Governance",
+    "company": "APEX International",
+    "description": "720-Degree interactive and immersive Simulation helps to train emergency response team and educate general public on disaster prevention",
+    "Scenario": "Fire Station at a local city government responded to a major fire at an industrial plant with dangerous chemicals. The situation was difficult to contain due to the lack of fire response knowledge from the workers, thus complicating the rescue process for firefighters. It has become a public safety issue and requires more proactive ways to promote emergency response as a common knowledge among citizens, and to facilitate more in-depth training to firefighters.",
+    "pain_points_and_needs": ["\t\u2022\t Training of firefighters often restricted by time and space of the facilities ", "\t\u2022\t Current fire simulation training is often conducted in foreign languages and not localized", "\t\u2022\t Current fire simulation training is often done by PC and not interactive enough", "\t\u2022\t Knowledge of disaster prevention/reduction is not widely known to the public"],
+    "smart_solution": "This solution is deployed across training facilities, fire museum and schools in Taiwan to facilitate training to firefighters and rescue response team, as well as to educate the general public. The platform uses VR/MR/AR technology and 720-degree simulation of visual effects to develop interactive and immersive scenarios, and to allow trainees to practice disaster response to improve the efficiency of overall disaster response training and education.",
+    "adopted_technology": "VR, MR, AR Technology",
+    "benefits": ["\t\u2022\tIncrease the disaster rescue knowledge of the public to reduce damage ", "\t\u2022\tFacilitate interactive training methods for firefighters to improve the efficiency of disaster training and education", "\t\u2022\tExpand the market for domestic fire simulation to enhance public safety "],
+    "solution_description": "This solution makes use of VR/MR/AR technology to provide 720-degree simulation visual effects, and to facilitate virtual training for firefighters and rescuers in disaster response. ",
+    "solution_provider": "APEX International",
+    "reference_site": "Hsinchu City Fire Training Facility, Hsinchu Fire Museum, Hsinchu Fire Battalion /Station Training Fields, Hsinchu City Governments Agency and School",
+    "contact": "service@communications.org.tw"
 }

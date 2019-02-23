@@ -54,12 +54,8 @@ body {
     bottom: 6vh;
     border-radius: 30px;
     position: fixed;
-    height: 60px;
-    width: 60px;
-    font-size: 30px;
     cursor: pointer;
     z-index: 1;
-    background-color: rgba(52, 88, 169, 0.6);
 }
 
 
@@ -354,9 +350,9 @@ body {
 
     .s5-content {
         margin: 2px;
-        padding-left: 20px;
+        /* padding-left: 20px; */
         text-align: left;
-        width: 250px;
+        /* width: 250px; */
         font-size: 0.8rem;
     }
 

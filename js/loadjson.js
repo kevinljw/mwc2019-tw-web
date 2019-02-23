@@ -23,14 +23,6 @@ function createList(my_array, my_id) {
   }
 }
 
-// function createLi(count) {
-//   // console.log(count);
-//   var innerHTML = document.getElementById("pain_points_and_needs").innerHTML;
-//   innerHTML = innerHTML + `<li>${count}</li>`;
-//   // console.log(innerHTML);
-//   document.getElementById("pain_points_and_needs").innerHTML = innerHTML;
-// }
-
 
 const urlParams = new URLSearchParams(window.location.search);
 const com_name = urlParams.get('id');
@@ -51,14 +43,40 @@ loadJSON(com_name, function (response) {
   $('#adopted_technology').text(actual_JSON['adopted_technology']);
   // $('#benefits').text(actual_JSON['benefits']);
 
-  // $("#s1-img").attr("src", "public/" + com_name + "/1.png");
-  // $("#s2-img").attr("src", "public/" + com_name + "/2.png");
-  // $("#s3-1-img").attr("src", "public/" + com_name + "/3-1.png");
-  // $("#s3-2-img").attr("src", "public/" + com_name + "/3-2.png");
-  // $("#s3-3-img").attr("src", "public/" + com_name + "/3-3.png");
-  // $("#s3-4-img").attr("src", "public/" + com_name + "/3-4.png");
-  // $("#s3-5-img").attr("src", "public/" + com_name + "/3-5.png");
-  // $("#s5-img").attr("src", "public/" + com_name + "/4.png");
+  $("#s1-img").attr("src", "public/" + com_name + "/1.png");
+  $("#s2-img").attr("src", "public/" + com_name + "/2.png");
+
+
+  $("#s3-1-img").attr("src", "public/" + com_name + "/3-1.jpg");
+  $("#s3-2-img").attr("src", "public/" + com_name + "/3-2.jpg");
+  $("#s3-3-img").attr("src", "public/" + com_name + "/3-3.jpg");
+  $("#s3-4-img").attr("src", "public/" + com_name + "/3-4.jpg");
+  $("#s3-5-img").attr("src", "public/" + com_name + "/3-5.jpg");
+
+  // var picture_number = 0;
+  // for (count = 1; count < 6; count++) {
+  //   var url = "./public/" + com_name + "/3-" + count + ".jpg";
+  //   var img = new Image();
+  //   img.src = url;
+  //   alert(url);
+  //   if (img.complete) {
+  //     alert('圖片存在');
+  //   } else {
+  //     // alert('圖片不存在');
+  //   }
+  // }
+
+  // for (count = 1; count < 6; count++) {
+  //   var url = "./public/" + com_name + "/3-" + count + ".jpg";
+  //   alert(count);
+  //   if (!url) {
+  //     var url = {};
+  //     alert('圖片存在');
+  //   }
+  // }
+
+
+  $("#s5-img").attr("src", "public/" + com_name + "/4.png");
 
   createList(actual_JSON['benefits'], 'benefits')
 });
