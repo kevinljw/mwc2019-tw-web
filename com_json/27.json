@@ -3,11 +3,12 @@
     "company": "GOYOURLIFE, Genomics",
     "description": "AI Algorithm Helps to Enable Pregnancy",
     "Scenario": "Alice, 35 years old, did not have any sign of pregnancy after years of marriage. Their parents urged them to try hard to have a baby. Alice strived hard with her husband, but still failed to fall pregnant.",
-    "pain_points_and_needs": ["\t\u2022\tAccording to WHO, the infertility rate worldwide is about 8% to 12%.  Over 85 million couples suffer from infertility.", "\t\u2022\tIn Taiwan one couple out of seven is infertile. The low birth rate has become a crisis of national security.", "\t\u2022\tThe appointment of a renowned fertility doctor is always hard to get. Also, there is a lack of trust between doctors and patients.", "\t\u2022\tThe patient often forgets to take medication or have the injection, which makes getting pregnant more difficult."],
+    "pain_points_and_needs": ["\t\u2022\t According to WHO, the infertility rate worldwide is about 8% to 12%.  Over 85 million couples suffer from infertility", "\t\u2022\t In Taiwan one couple out of seven is infertile. The low birth rate has become a crisis of national security.", "\t\u2022\t The appointment of a renowned fertility doctor is always hard to get. Also, there is a lack of trust between doctors and patients", "\t\u2022\t The patient often forgets to take medication or have the injection, which makes getting pregnant more difficult"],
     "smart_solution": "This solution involves an AI-enabled ecosystem for accurate reproductive medicine. The ecosystem combines both the platform for AI-enabled medical management and the social media group for pregnancy support, integrating more than 10,000 medical records of the recent five years from reproductive medical centers. It further makes use of AI algorithm to construct an infertility prediction model, a best-fetus prediction model, and online customized consultation for the couples and individuals. It also provides the information of medication/injection reminder, and the discussion boards for the patients striving to achieve pregnancy.",
     "adopted_technology": "AI Machine Learning and Algorithm",
-    "benefits": ["1. Provide accurate estimation of the peak time of ovulation", "2. Increase the probability of successful pregnancy "],
+    "benefits": ["\t\u2022\t Provide accurate estimation of the peak time of ovulation", "\t\u2022\t Increase the probability of successful pregnancy"],
     "solution_description": "GOYOURLIFE and Genomics work together to develop the integrated service using AI algorithm to help enable pregnancy by building the infertility and the best-fetus prediction models and to provide personal online consultation and medication/injection reminders for a smoother pregnancy.",
     "solution_provider": "GOYOURLIFE, Genomics",
+    "reference_site": "Taipei Medical University Hospital",
     "contact": "service@communications.org.tw"
 }
