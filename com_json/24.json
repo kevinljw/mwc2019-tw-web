@@ -2,12 +2,13 @@
     "8class": "Smart Healthcare",
     "company": "Chunghwa Telecom",
     "description": "Mobile devices and the cloud to facilitate community care service model in rural areas",
-    "Scenario": "Mrs. Wang lives in Penghu, an outlying island in Taiwan and making her trip to the regional hospital very difficult. Given her chronic disease that requires her to closely monitor her status, she wonders if there is anything that can mitigate this problem. ",
-    "pain_points_and_needs": ["\t\u2022\tLong distance for people in rural areas to travel in order to receive medical treatment", "\t\u2022\tInsufficient medical resources in rural areas", "\t\u2022\tElderly whom resides in rural areas without family members around also require proper home care"],
-    "smart_solution": "This solution focuses on providing intelligent health care services within communities. The service uses \u201cliving spheres\u201d as the service areas to provide senior-friendly and mobile devices for self-serve physiological measurements, and to connect them with medical institutes and health centers to develop a community care service model. ",
+    "Scenario": "Mrs. Wang lives in Penghu, an outlying island in Taiwan and making her trip to the regional hospital very difficult. Given her chronic disease that requires her to closely monitor her status, she wonders if there is anything that can mitigate this problem.",
+    "pain_points_and_needs": ["\t\u2022\t Long distance for people in rural areas to travel in order to receive medical treatment", "\t\u2022\t Insufficient medical resources in rural areas", "\t\u2022\t Elderly whom resides in rural areas without family members around also require proper home care"],
+    "smart_solution": "This solution focuses on providing intelligent health care services within communities. The service uses \u201cliving spheres\u201d as the service areas to provide senior-friendly and mobile devices for self-serve physiological measurements, and to connect them with medical institutes and health centers to develop a community care service model.",
     "adopted_technology": "VR, physiological measurements connected to the cloud",
-    "benefits": ["1. ", "It provides devices connected to the cloud and data integration from different medical facilities to facilitate elderly care", "2. It uses \u201cliving spheres\u201d as the service areas to promote health care in rural areas for better coverage "],
-    "solution_description": "This solution addresses the lack of medical resources in rural areas and outlying islands. It includes setting up devices for physiological measurements in administrative areas (so-called \u201cliving spheres\u201d). It also uses mobile devices to extend home and personal care services, also providing the elderly in remote areas extensive health and medical care in their communities. ",
+    "benefits": ["\t\u2022\t It provides devices connected to the cloud and data integration from different medical facilities to facilitate elderly care", "\t\u2022\t It uses \u201cliving spheres\u201d as the service areas to promote health care in rural areas for better coverage"],
+    "solution_description": "This solution addresses the lack of medical resources in rural areas and outlying islands. It includes setting up devices for physiological measurements in administrative areas (so-called \u201cliving spheres\u201d). It also uses mobile devices to extend home and personal care services, also providing the elderly in remote areas extensive health and medical care in their communities.",
     "solution_provider": "Chunghwa Telecom",
+    "reference_site": "Kaohsiung City, Pingtung County, and Penghu County",
     "contact": "service@communications.org.tw"
 }

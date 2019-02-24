@@ -2,12 +2,13 @@
     "8class": "Smart Governance",
     "company": "Taiwan International Building Management",
     "description": "AIoT-enhanced 3D Building Information Modeling (3D BIM) to facilitate building management ",
-    "Scenario": "Due to deterioration on old structures, public buildings in Yilan are in need of repair. However, since the current method of construction work is still mostly carried out manually, the city government finds it difficult to plan ahead on maintenance and budgeting, and emergency response in case of emergency.  ",
-    "pain_points_and_needs": ["\t\u2022\tConstruction work in the traditional sense is mostly carried out manually, where progress is not easy to track", "\t\u2022\tInsufficient details with  information onsite in case of emergency (such as fire)"],
+    "Scenario": "Due to deterioration on old structures, public buildings in Yilan are in need of repair. However, since the current method of construction work is still mostly carried out manually, the city government finds it difficult to plan ahead on maintenance and budgeting, and emergency response in case of emergency.",
+    "pain_points_and_needs": ["\t\u2022\t Construction work in the traditional sense is mostly carried out manually, where progress is not easy to track", "\t\u2022\t Insufficient details with information onsite in case of emergency (such as fire)"],
     "smart_solution": "This solution makes use of next-generation AIoT platform to facilitate 3D Building Information Modeling (3D BIM) for the purpose of construction, property and energy management. The solutions includes elements such as AR-enhanced info on the building, IoT-embedded equipment for easier tracking, and mobile construction review and engineering platform for dashboards with data visualization. The interpreted information can then be used by government sectors for public building maintenance, emergency response, indoor positioning and more.",
     "adopted_technology": "AIoT",
-    "benefits": ["1.", " Data collected from sensors around buildings can be quantified and processed through machine learning, which in turn can be visualized as reference to the construction, property and energy management.", "2. Government sectors can then utilize AIoT-enhanced 3D Building Information Modeling (3D BIM) to plan future maintenance and budgeting of public buildings, as well as emergency response and indoor positioning. "],
+    "benefits": ["\t\u2022\t Data collected from sensors around buildings can be quantified and processed through machine learning, which in turn can be visualized as reference to the construction, property and energy management.", "\t\u2022\t Government sectors can then utilize AIoT-enhanced 3D Building Information Modeling (3D BIM) to plan future maintenance and budgeting of public buildings, as well as emergency response and indoor positioning"],
     "solution_description": "This solution makes use of next-generation AIoT platform to facilitate 3D Building Information Modeling (3D BIM) for the purpose of construction, property and energy management. The solution includes dashboards with data visualization, where the interpreted information can then be used by government sectors for public building maintenance, emergency response, indoor positioning and more.",
-    "solution_provider": "Taiwan International Building Management  ",
-    "contact": ""
+    "solution_provider": "Taiwan International Building Management",
+    "reference_site": "Public Areas in Yilan County",
+    "contact": "service@communications.org.tw"
 }

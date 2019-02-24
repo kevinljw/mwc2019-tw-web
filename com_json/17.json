@@ -3,12 +3,12 @@
     "company": "ShinKong Insurance",
     "description": "AI intelligence platform with chatbots to enhance insurance-related services to applicants",
     "Scenario": "A few days ago there was an earthquake that caused damages to Mr. Chang\u2019s apartment, making his wife quite terrified. After careful consideration, they decided to purchase earthquake insurance but were unsure about choosing the most suitable policy for them. ",
-    "pain_points_and_needs": ["\t\u2022\tApplicants seeking insurance policies do not fully understand their needs and options", "\t\u2022\t", "\t\u2022\tThe insurance application is often through hard copies and manual verification, making the process lengthy ", ""],
+    "pain_points_and_needs": ["\t\u2022\t Applicants seeking insurance policies do not fully understand their needs and options", "\t\u2022\t The insurance application is often through hard copies and manual verification, making the process lengthy "],
     "smart_solution": "Through the integration of three major systems enabled by AI intelligence services, applicants could receive assistance with insurance-related issues in a timely manner.  During the application process, the system would automatically recommend customized policies. When making the claims,  applicants can use the App or LINE to upload the claim documents. The AI intelligence platform will initiate claim assessing process, review and categorize claims to reduce human errors and expedite the issuance of payment.",
     "adopted_technology": "Artificial Intelligence (AI) and chatbot",
-    "benefits": ["\t\u2022\tRecommends customized policies through AI-empowered chatbots for expedited service ", "\t\u2022\tReduces human review time and possibility of error for accessing claim documents"],
+    "benefits": ["\t\u2022\t siesthrough-empowered chatbots for expedited service", "\t\u2022\t Reduces human review time and possibility of error for accessing claim documents"],
     "solution_description": "This solution provides insurance-related service to the public through AI intelligence service platform, which offers AI chatbots and automatic assessment to expedite the process for review and claims.",
     "solution_provider": "ShinKong Insurance",
-    "reference_site": "Nation-wide in Taiwan\n",
-    "contact": ""
+    "reference_site": "Nation-wide in Taiwan",
+    "contact": "service@communications.org.tw"
 }
