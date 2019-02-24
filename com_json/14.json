@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Governance",
+    "company": "INTUMIT INC.",
+    "description": "Interactive consultation with smart robots to facilitate tax-related tasks through video conferencing",
+    "Scenario": "Given the complexity of taxation business, people often require help. As a result, during tax seasons in Taiwan, the taxation bureau is often packed with people seeking help. There is a need to improve the system, as well as the efficiency of doing taxes in person.",
+    "pain_points_and_needs": ["\t\u2022\t It is time-consuming and inconvenient for people to handle tax-related matters in person at the taxation bureau", "\t\u2022\t It is also a lot of workload for taxation personnel to handle inquiries from taxpayers during tax seasons", "\t\u2022\t Foreigners working in Taiwan often require assistance doing taxes"],
+    "smart_solution": "This solution integrates taxation services at local taxation bureaus in Taoyuan City. The smart robot can interact with the public based on their questions related to taxation or other applications, and to provide personal taxation consultation. In the meantime, the public can also use video conferencing to manage taxation tasks across government agencies. There is no need to handle the tasks in person. There is multilingual interpretation services, which facilitates the interpretation system “BEasy” from the third party to assist foreigners handle taxes in Taiwan.",
+    "adopted_technology": "AI, Video Conferencing, Multilingual Live Interpretation",
+    "benefits": ["\t\u2022\t Reduces the burden of taxation personnel", "\t\u2022\t Provides alternative options for rural areas to handle tax-related matters through remote applications", "\t\u2022\t Promotes public services to adopt AI technology to increase efficiency"],
+    "solution_description": "This solution makes use of smart robots to interact with the public and provide tax-related application services through video conferencing to speed up the process.",
+    "solution_provider": "Official website of the Department of Taxation in Taoyuan City",
+    "reference_site": "",
+    "contact": "service@communications.org.tw"
+}

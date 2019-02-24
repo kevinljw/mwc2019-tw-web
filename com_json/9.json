@@ -1,14 +1,14 @@
 {
     "8class": "Smart Governance",
     "company": "Asia Pacific Telecom",
-    "description": "Facial and product recognition powered by edge computing and artificial intelligence for banking, retail and factory  ",
+    "description": "Facial and product recognition powered by edge computing and artificial intelligence for banking, retail and factory ",
     "Scenario": "Mr. Shih is a VIP of a financial holding company with more than 10-million-dollar deposit here. Recently, Mr. Shih plans to open an overseas account for wealth management. The teller at the branch has no idea he is a VIP, asking him to line up with other customers. He feels that he is not treated with respect.",
-    "pain_points_and_needs": ["1. Speed of image recognition is not fast enough for IoT applications", "2. There is a need to adopt edge computing (MEC) for IoT platforms", "3. Current cloud architectures could not support efficient IoT off-line processing", ""],
-    "smart_solution": "This solution involves a system to identify people and items through AI. It is powered by edge computing therefore can still deliver service when IoT services are offline, making this ideal for banking, smart retailing, and factory. For example, as soon as a VIP walks in the bank, a receptionist and the system would recognize him immediately. When the receptionist approaches to greet the VP, his related data is prepared at the same time to shorten further time. In addition, factories could use the system to manage personnel safety, inspect product quality, and receive early alarms of mechanical abrasion and supplies shortage. The system could further analyze the feedback image data through big data analytics to improve the yield rate. ",
+    "pain_points_and_needs": ["\t\u2022\t Speed of image recognition is not fast enough for IoT applications", "\t\u2022\t There is a need to adopt edge computing (MEC) for IoT platforms", "\t\u2022\t Current cloud architectures could not support efficient IoT off-line processing"],
+    "smart_solution": "This solution involves a system to identify people and items through AI. It is powered by edge computing therefore can still deliver service when IoT services are offline, making this ideal for banking, smart retailing, and factory. For example, as soon as a VIP walks in the bank, a receptionist and the system would recognize him immediately. When the receptionist approaches to greet the VP, his related data is prepared at the same time to shorten further time. In addition, factories could use the system to manage personnel safety, inspect product quality, and receive early alarms of mechanical abrasion and supplies shortage. The system could further analyze the feedback image data through big data analytics to improve the yield rate.",
     "adopted_technology": "Facial Recognition through AI, Edge Computing (MEC)",
-    "benefits": ["\t\u2022\tThis solution addresses the need for edge computing implemented on IoT platforms ", "\t\u2022\tThe solution is already adopted by banks, retail stores and factories with proven track record"],
+    "benefits": ["\t\u2022\t This solution addresses the need for edge computing implemented on IoT platforms ", "\t\u2022\t The solution is already adopted by banks, retail stores and factories with proven track record"],
     "solution_description": "This solution features MEC and AI recognition to facilitate people recognition, product management, quality control in production lines applicable to banking, retail, and factory environment.",
     "solution_provider": "Asia Pacific Telecom",
     "reference_site": "Taiwan",
-    "contact": ""
+    "contact": "service@communications.org.tw"
 }
