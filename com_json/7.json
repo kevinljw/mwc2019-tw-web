@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Governance",
+    "company": "RFD Micro Electricity",
+    "description": "Blockchain enables transparency and openness for solar energy trading",
+    "Scenario": "Solar power trading has become a new investment options recently. However, there isn’t enough public info on solar power plant and trading platforms.",
+    "pain_points_and_needs": ["\t\u2022\t The return on investment of solar power generation is stable, and a 5%-6% on average return rate every year", "\t\u2022\t There is a need for a reliable platform for solar energy trading"],
+    "smart_solution": "This solution includes the development of an asset management system for solar power trading with blockchain technology. With a fair platform for appraisal and making public all the data including power generation, return on investment and transactions, this would ensure openness and transparency to make solar power trading an accessible investment option.",
+    "adopted_technology": "Blockchain, Industrial Big Data Analytics, SOLA Asset Management System, IoT",
+    "benefits": ["\t\u2022\t Allows public access to solar power trading platforms with transparency and openness", "\t\u2022\t Facilitate the development of industry chains including wafers, modules, power equipment, power plants, and solar power finance in the long run"],
+    "solution_description": "This solution includes the development of a fair platform for appraisal, collection and making public all the data including power generation, return on investment and transaction. This makes solar power generation becomes an accessible investment option.",
+    "solution_provider": "RFD Micro Electricity",
+    "reference_site": "Online",
+    "contact": "service@communications.org.tw"
+}
