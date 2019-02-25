@@ -1,13 +1,14 @@
 {
     "8class": "Smart Transportation",
     "company": "ALTOB",
-    "description": "Integrated service to make parking easy and efficient ",
-    "Scenario": "May always finds it difficult to allocate a parking space in Tapei City, causing her great trouble whenever she needs to drive into the city to visit her clients. She wonders if there is a better system to help drivers work through this everyday problem.  ",
-    "pain_points_and_needs": ["\t\u2022\t", "\t\u2022\t", "\t\u2022\tIt is bothersome to go through multiple steps in order to enter a parking lot, find a space, and pay the parking fee", "\t\u2022\tThe waste emitted during space hunting causes air pollution", "\t\u2022\tThe parking demand for the metropolitan area is high", "\t\u2022\tThe waste emitted during space hunting causes air pollution"],
+    "description": "Integrated service to make parking easy and efficient",
+    "Scenario": "May always finds it difficult to allocate a parking space in Tapei City, causing her great trouble whenever she needs to drive into the city to visit her clients. She wonders if there is a better system to help drivers work through this everyday problem.",
+    "pain_points_and_needs": ["\t\u2022\t It is bothersome to go through multiple steps in order to enter a parking lot, find a space, and pay the parking fee","\t\u2022\t The parking demand for the metropolitan area is high"],
     "smart_solution": "The solutions provides parking service through admission by plate recognition, parking lot directory real-time detection for space occupancy, query, and direction for special parking space (elevator entrance, restroom), mobile payment, and charging station for electric motorcycles. In addition, the solution also incorporates self-service car rental service 24 hours a day. In the parking lots at Taipei Station, you can rent a car here and return it to the same place or another. The service greatly combines public transportation, car rental and parking services.",
     "adopted_technology": "Image recognition and online payment",
-    "benefits": ["\t\u2022\tImproves the whole process of parking with better efficiency   ", "\t\u2022\tShorten the space hunting time for drivers ", "\t\u2022\tAdopts the innovative model of shared parking service to include public, private parking lots to expand the available parking spaces to mitigate the issue with parking space allocation in metropolitan areas "],
+    "benefits": ["\t\u2022\t Improves the whole process of parking with better efficiency", "\t\u2022\t Shorten the space hunting time for drivers", "\t\u2022\t Adopts the innovative model of shared parking service to include public, private parking lots to expand the available parking spaces to mitigate the issue with parking space allocation in metropolitan areas"],
     "solution_description": "The solution provides parking services without barricades by integrating car plate recognition, parking space directory, space detection and online payment. In addition, this solution allows parking space sharing, as well as self-service car rental to provide more convenience to users.",
     "solution_provider": "ALTOB",
-    "contact": "service@communications.org.tw"
+    "reference_site": "Taipei City, New Taipei City, Keelung, Taoyuan (Barrie-Gate Free Parking), Taipei Train Station (Shared Parking service and eco-friendly parking service)",
+    "contact": "service@communications.org.tw""
 }

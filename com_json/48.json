@@ -1,14 +1,14 @@
 {
     "8class": "Smart Retail",
     "company": "Qisda Corporation",
-    "description": "Facial recognition and AI to facilitate accurate marketing at storefront to increase sales ",
-    "Scenario": "As the owner of a chain fast food restaurant, Jane is constantly seeking ways to promote sales, and to run her store with better efficiency. ",
-    "pain_points_and_needs": ["1. It is not easy to collect the data of user behaviors by only calculating manually or estimating through sales amount in POS systems", "2. There is a need to increase sales with accurate marketing", "3. There is a need for better storefront management", ""],
+    "description": "Facial recognition and AI to facilitate accurate marketing at storefront to increase sales",
+    "Scenario": "As the owner of a chain fast food restaurant, Jane is constantly seeking ways to promote sales, and to run her store with better efficiency.",
+    "pain_points_and_needs": ["\t\u2022\t It is not easy to collect the data of user behaviors by only calculating manually or estimating through sales amount in POS systems", "\t\u2022\t There is a need to increase sales with accurate marketing", "\t\u2022\t There is a need for better storefront management"],
     "smart_solution": "This solution analyzes passersby, customers visiting the store, and customers in the waiting line by image data modeling. Facial recognition is used to categorize customers to achieve accurate marketing. It also analyzes the group of checkout customers and promotions to increase the shopping amount of each customer. The kitchen appliances are equipped with smart meters to record the consumption of electricity. Combined with maintenance data of machines and data from the environment, adjustments can also be made to enhance the store operations.",
     "adopted_technology": "IoT, Facial Recognition, Modeling through image data, AI technology",
-    "benefits": ["\t\u2022\tProvides facial recognition to categorize customers to achieve accurate marketing", "\t\u2022\tProvides analysis to increase the shopping amount of each customer by using the right promotions", "\t\u2022\tUses smart meters and IoT to facilitate store operations "],
+    "benefits": ["\t\u2022\t Provides facial recognition to categorize customers to achieve accurate marketing", "\t\u2022\t Provides analysis to increase the shopping amount of each customer by using the right promotions", "\t\u2022\t Uses smart meters and IoT to facilitate store operations"],
     "solution_description": "Qisda Corporation calculates the store-visiting rate through AI data analytics to achieve accurate marketing. It also involves smart meters with connectivity and AI analytics to improve the service quality of the chain stores.",
     "solution_provider": "Qisda Corporation",
     "reference_site": "MOS Burger branches in Taiwan",
-    "contact": ""
+    "contact": "service@communications.org.tw"
 }

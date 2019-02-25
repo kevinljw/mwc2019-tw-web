@@ -2,12 +2,13 @@
     "8class": "Smart Retail",
     "company": "Microprogram",
     "description": "LINE notifications with beacon and AI analytics to make sure users wouldn\u2019t miss a thing",
-    "Scenario": "Ms. Lin is traveling to Taichung for a day trip, and she would like to know the most updated info on events, activities and deals around Taichung during her visit to make the most out of her trip. She wonders if there is an easier way for her to get the relevant and useful info at once.  ",
-    "pain_points_and_needs": ["1. Given the prominence of internet, there is a need for users to filter info based on relevance", "2. Public announcements from government require more effective ways of dissemination ", "3. Local stores need a more effective mechanism to collect and analyze user data to reach the right audience and customers ", ""],
-    "smart_solution": "This solution interfaces with LINE platform notification, beacon, and AI technology to integrate and analyze ticket information, and to gain insights on the user profile in order to push suitable messages from stores (for stores info and discounts) or public sectors (such as weather forecast, traffic update, construction info in public areas) to them. ",
+    "Scenario": "Ms. Lin is traveling to Taichung for a day trip, and she would like to know the most updated info on events, activities and deals around Taichung during her visit to make the most out of her trip. She wonders if there is an easier way for her to get the relevant and useful info at once.",
+    "pain_points_and_needs": ["\t\u2022\t Given the prominence of internet, there is a need for users to filter info based on relevance", "\t\u2022\t Public announcements from government require more effective ways of dissemination ", "\t\u2022\t Local stores need a more effective mechanism to collect and analyze user data to reach the right audience and customers "],
+    "smart_solution": "This solution interfaces with LINE platform notification, beacon, and AI technology to integrate and analyze ticket information, and to gain insights on the user profile in order to push suitable messages from stores (for stores info and discounts) or public sectors (such as weather forecast, traffic update, construction info in public areas) to them.",
     "adopted_technology": "Beacon, AI, big data analytics",
-    "benefits": ["\t\u2022\tBased on user profiles and location, the solution delivers the most relevant info to users", "\t\u2022\tIt serves as an effective way to spread out public announcement from government sectors", "\t\u2022\tHelps local stores to execute precise marketing based on customer profiles and user data analytics "],
-    "solution_description": "The solution interfaced with LINE platform notification, beacon service and big data analytics to push info from nearby stores and government sector to targeted audience based on the user profiles and interests to promote info dissemination. ",
+    "benefits": ["\t\u2022\t Based on user profiles and location, the solution delivers the most relevant info to users", "\t\u2022\t It serves as an effective way to spread out public announcement from government sectors", "\t\u2022\t Helps local stores to execute precise marketing based on customer profiles and user data analytics"],
+    "solution_description": "The solution interfaced with LINE platform notification, beacon service and big data analytics to push info from nearby stores and government sector to targeted audience based on the user profiles and interests to promote info dissemination.",
     "solution_provider": "Microprogram",
+    "reference_site": "Taichung City, Taipei City, New Taipei City",
     "contact": "service@communications.org.tw"
 }

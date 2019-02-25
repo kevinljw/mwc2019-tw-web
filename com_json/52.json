@@ -3,11 +3,12 @@
     "company": "FHNet",
     "description": "IoT to enhance agri-tourism",
     "Scenario": "A-Rong is the second-generation young farmer taking over the orchard from his father. He uses natural farming to grow his produce. However, A-Rong is faced with multiple challenges to maintain suitable soils, temperature, and humidity. He also finds it difficult to find sales channels for his fruits after the harvest. He is in need of help.",
-    "pain_points_and_needs": ["1. Lack of agriculture technology to enhance productivity ", "2. Lack of sales channels for individual farms", "3. Agri-tourism with growing popularity needs to be refined in practice", ""],
+    "pain_points_and_needs": ["\t\u2022\t Lack of agriculture technology to enhance productivity ", "\t\u2022\t Lack of sales channels for individual farms", "\t\u2022\t Agri-tourism with growing popularity needs to be refined in practice"],
     "smart_solution": "This solution features intelligent management in the farmland including detection of moisture, air, soils, pests, and diseases. These records are digitalized to facilitate the traceability. In addition, it also sets up production and marketing platform for farmers to sell their products online to avoid the high cost from selling products through wholesalers. This solution further provides tourist information like a one-day trip in a rural village, which combines quality agriculture and agri-tourism with traditional tourism to promote sales in agriculture, boost farmer's income, and improve the livelihood of farmers.",
-    "adopted_technology": "IoT, big data analytics ",
-    "benefits": ["1. It creates a win-win business model by an appropriate profit sharing scheme", "2. It could help farms develop multiple sales channels", "3. Intelligent agriculture can expand production capacity and relieve the burden for labor power", "4. It helps to build quality agriculture to improve the livelihood of farmers"],
+    "adopted_technology": "IoT, big data analytics",
+    "benefits": ["\t\u2022\t It creates a win-win business model by an appropriate profit sharing scheme", "\t\u2022\t It could help farms develop multiple sales channels", "\t\u2022\t Intelligent agriculture can expand production capacity and relieve the burden for labor power", "\t\u2022\t It helps to build quality agriculture to improve the livelihood of farmers"],
     "solution_description": "This solution features an integrated platform for the ecosystem of tourism and IoT agriculture applications for \u201cAgritourism.\u201d ",
     "solution_provider": "FHNet",
-    "contact": ""
+    "reference_site": "Hsinchu County",
+    "contact": "service@communications.org.tw"
 }
