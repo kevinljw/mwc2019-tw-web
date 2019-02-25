@@ -43,9 +43,9 @@ loadJSON(com_name, function (response) {
   $('#adopted_technology').text(actual_JSON['adopted_technology']);
   // $('#benefits').text(actual_JSON['benefits']);
 
-  $("#s1-img").attr("src", "public/" + com_name + "/1.png");
-  $("#s1-img").attr("src", "public/" + com_name + "/1.png");
-  $("#s2-img").attr("src", "public/" + com_name + "/2.png");
+  $("#s1-img").attr("src", "public/" + com_name + "/1.jpg");
+  $("#s1-img").attr("src", "public/" + com_name + "/1.jpg");
+  $("#s2-img").attr("src", "public/" + com_name + "/2.jpg");
 
 
  
@@ -98,7 +98,7 @@ loadJSON(com_name, function (response) {
   // }
 
 
-  $("#s5-img").attr("src", "public/" + com_name + "/4.png");
+  $("#s5-img").attr("src", "public/" + com_name + "/4.jpg");
 
   createList(actual_JSON['benefits'], 'benefits')
 });
