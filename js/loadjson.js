@@ -44,15 +44,36 @@ loadJSON(com_name, function (response) {
   // $('#benefits').text(actual_JSON['benefits']);
 
   $("#s1-img").attr("src", "public/" + com_name + "/1.png");
+  $("#s1-img").attr("src", "public/" + com_name + "/1.png");
   $("#s2-img").attr("src", "public/" + com_name + "/2.png");
 
 
+ 
   $("#s3-1-img").attr("src", "public/" + com_name + "/3-1.jpg");
-  $("#s3-2-img").attr("src", "public/" + com_name + "/3-2.jpg");
-  $("#s3-3-img").attr("src", "public/" + com_name + "/3-3.jpg");
-  $("#s3-4-img").attr("src", "public/" + com_name + "/3-4.jpg");
-  $("#s3-5-img").attr("src", "public/" + com_name + "/3-5.jpg");
+  $("#s3-1-img").attr("data-remote", "public/" + com_name + "/3-1.jpg");
 
+  $("#s3-2-img").attr("src", "public/" + com_name + "/3-2.jpg");
+  $("#s3-2-img").attr("data-remote", "public/" + com_name + "/3-2.jpg");
+  
+    
+  $("#s3-3-img").attr("src", "public/" + com_name + "/3-3.jpg");
+  $("#s3-3-img").attr("data-remote", "public/" + com_name + "/3-3.jpg");
+  
+  $("#s3-4-img").attr("src", "public/" + com_name + "/3-4.jpg");
+  $("#s3-4-img").attr("data-remote", "public/" + com_name + "/3-4.jpg");
+
+  $("#s3-5-img").attr("src", "public/" + com_name + "/3-5.jpg");
+  $("#s3-5-img").attr("data-remote", "public/" + com_name + "/3-5.jpg");
+    
+  $("#carouselExampleIndicators .carousel-item img").on( "error", function(){
+      $(this).parent().remove();
+      $("#carouselExampleIndicators .carousel-indicators li:last-child").remove();
+      if($("#carouselExampleIndicators .carousel-indicators li").length <= 1){
+          $("#carouselExampleIndicators .carousel-control-next,#carouselExampleIndicators .carousel-control-prev").remove();
+      }
+  });
+    
+  
   // var picture_number = 0;
   // for (count = 1; count < 6; count++) {
   //   var url = "./public/" + com_name + "/3-" + count + ".jpg";
