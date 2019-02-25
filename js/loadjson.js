@@ -70,6 +70,7 @@ loadJSON(com_name, function (response) {
       $("#carouselExampleIndicators .carousel-indicators li:last-child").remove();
       if($("#carouselExampleIndicators .carousel-indicators li").length <= 1){
           $("#carouselExampleIndicators .carousel-control-next,#carouselExampleIndicators .carousel-control-prev").remove();
+          $("#carouselExampleIndicators .carousel-indicators li:last-child").remove();
       }
   });
     
