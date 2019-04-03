@@ -132,6 +132,10 @@ h1 {
     margin-left: 0px;
 }
 
+img .logo{
+    width: 100px;
+}
+
 
 @media screen and (max-width:991.99px) {
     .menu-btn1 {
